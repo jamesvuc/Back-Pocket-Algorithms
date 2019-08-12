@@ -8,9 +8,7 @@ This is a collection of implementations of fundamental data structures and algor
 ## Contents
 All algorithms have at least some unit tests, which are in the ``if __name__ == __main__:`` section of the files below.
 
-``by_topic/``
-
-``data_structures.py``
+``by_topic/data_structures.py``
 1. Stack
 2. Queue
 3. Linked List
@@ -26,7 +24,7 @@ All algorithms have at least some unit tests, which are in the ``if __name__ == 
 5. counting sort & radix sort
 6. insertion sort & bubble sort
 
-``graphs_sets.py``
+``by_topic/graphs_sets.py``
 1. Simple graph object with methods for
 	1. BFS & DFS
 	2. min-spanning tree (Prim's and Kruksal's algorithms)
