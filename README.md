@@ -16,7 +16,7 @@ All algorithms have at least some unit tests, which are in the ``if __name__ == 
 5. Binary Search Tree
 6. Heaps
 
-``searching_sorting.py``
+``by_topic/searching_sorting.py``
 1. heapsort & heapselect
 2. mergesort
 3. quicksort & quickselect
